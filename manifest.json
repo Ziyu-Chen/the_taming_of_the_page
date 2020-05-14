@@ -2,7 +2,7 @@
     "name": "The Taming of the Page",
     "version": "1.0",
     "description": "A Google Chrome Extension for styling or manipulating web pages in a specified fashion.",
-    "permissions": ["activeTab", "declarativeContent", "storage"],
+    "permissions": ["activeTab", "declarativeContent", "storage", "*://*/*"],
     "background": {
         "scripts": ["background.js"],
         "presistent": false
