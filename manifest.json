@@ -1,0 +1,6 @@
+{
+    "name": "The Taming of the Page",
+    "version": "1.0",
+    "description": "A Google Chrome Extension for styling or manipulating web pages in a specified fashion.",
+    "manifest_version": 1
+}
